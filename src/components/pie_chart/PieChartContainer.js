@@ -5,7 +5,7 @@ import { useIncidents } from '../../state/query_hooks/useIncidents';
 
 function PieChartContainer() {
   // limit state could potentially be managed by a slider or other input
-  // --> useBarChart() is set up to only return tags with more incidents than the limit
+  // --> usePieChartData() is set up to only return tags with more incidents than the limit
   // --> we chose 100 for now to not clutter the pie chart
   const [limit] = useState(100);
 
