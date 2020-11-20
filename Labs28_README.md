@@ -2,7 +2,7 @@
 
 ## Description
 
-Our team is developing an interactive map that identifies potential instances of police use-of-force across the United States of America for Human Rights First, an independent advocacy and action organization. Here is a little the non-profit from their [website](https://www.humanrightsfirst.org/about):
+Our team is developing an interactive map that identifies potential instances of police use-of-force across the United States of America for Human Rights First, an independent advocacy and action organization. Here is a little description of the non-profit from their [website](https://www.humanrightsfirst.org/about):
 
 > Human Rights First is an independent advocacy and action organization that challenges America to live up to its ideals. We believe American leadership is essential in the global struggle for human rights, so we press the U.S. government and private companies to respect human rights and the rule of law. When they fail, we step in to demand reform, accountability and justice. Around the world, we work where we can best harness American influence to secure core freedoms.
 > We know it is not enough to expose and protest injustice, so we create the political environment and policy solutions necessary to ensure consistent respect for human rights. Whether we are protecting refugees, combating torture, or defending persecuted minorities, we focus not on making a point, but on making a difference. For almost 40 years, we've built bipartisan coalitions and teamed up with frontline activists and lawyers to tackle global challenges that demand American leadership.
